@@ -1,2 +1,1 @@
-print("HELLLLLLOOOOOOOOOOOO")
-print("KING KOHLI")
+print()
